@@ -1,9 +1,6 @@
 package com.godfrey.pojo;
-
 import lombok.Data;
-
 import java.sql.Date;
-
 /**
  * description : 员工实体类
  *
